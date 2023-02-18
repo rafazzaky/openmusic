@@ -1,0 +1,4 @@
+node_modules
+dicoding-backend.pem
+.env
+.prod.env
